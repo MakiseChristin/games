@@ -1,4 +1,4 @@
-# games
+# Game Readme
 This is my first game written in pygame. And also the  first build of the game.
 In this game you have to collect balls using the box BUT, I have not yet developed it to the point where it uses balls and boxes.
 So to work around I have started by using a Red box for the ball (that  you have to collect) and the  Green box (through which you have to collect).
