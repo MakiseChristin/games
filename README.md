@@ -11,7 +11,8 @@ The controls are as follows:-
  Hope you enjoy!
  
 I have developed this game on my own (the whole logic and graphics).
-But yeah, I used the help of my Cousin --> "DebmeetBanerjee" where he helped me in:-
+But yeah, I used the help of my Cousin --> "DebmeetBanerjee"  https://github.com/DEBUrocks
+where he helped me in:-
   1. Positioning the pygame window in the middle of the screen of my Laptop.
   2. Moved the green box in the bottom of the screen to remove some glitches happening in the game.
   3. Creating a balance in the frame rate of the game.
