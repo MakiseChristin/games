@@ -17,3 +17,4 @@ where he helped me in:-
   2. Moved the green box in the bottom of the screen to remove some glitches happening in the game.
   3. Creating a balance in the frame rate of the game.
   4. Displaying the score upto two two decimal places.
+
