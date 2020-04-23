@@ -50,10 +50,6 @@ while not neko:
 		if event.type == pygame.KEYDOWN:
 			if event.key == pygame.K_ESCAPE:
 				neko = True
-			elif event.key == pygame.K_RIGHT:
-		 		r1_x += 50
-			elif event.key == pygame.K_LEFT:
-		 		r1_x -= 50
 	
 	keys = pygame.key.get_pressed()
 	if keys[K_RIGHT] and (r1_x < (lent-r1_size)):
