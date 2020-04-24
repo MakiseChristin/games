@@ -25,6 +25,6 @@ where he helped me in:-
   
   3. Creating a balance in the frame rate of the game.
   
-  4. Displaying the score upto two two decimal places.
+  4. Displaying the score upto two decimal places.
   
 
