@@ -91,7 +91,7 @@ while not neko:
 	win.blit(NUMBER, ((lent - r1_size-10), r1_size))
 
 	
-	# Draw Retangle 
+	# Draw Rectangle 
 	pygame.draw.rect(win, green, (r1_x, r1_y, r1_size, r1_size))
 	pygame.draw.rect(win, red, (r2_x, r2_y, r2_size, r2_size))
 
